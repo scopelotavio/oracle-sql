@@ -1,0 +1,6 @@
+SELECT *
+FROM t100prod;
+
+UPDATE t100prod
+SET NM)EMB = 'Lata'
+WHERE CD_PRD = 1037797;
